@@ -1,9 +1,47 @@
-baseURL = "http://example.org/"
+baseURL = "http://kaizendad.com/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Kaizendad.com"
 author = "Wade Armstrong"
-canonifyurls = true
-paginate = 3
+theme = "minimage"
+
+
+canonifyurls               = true
+contentdir                 = "content"
+layoutdir                  = "layouts"
+publishdir                 = "public"
+enableEmoji                = true
+paginate                   = 3
+
+[permalinks]
+  blog                     = ":slug/"
+
+[menu]
+  [[menu.global]]
+    name                   = "Glossary"
+    weight                 = -120
+    identifier             = "posts"
+    url                    = "glossary/"
+
+  [[menu.global]]
+    name                   = "What Is Kaizen"
+    weight                 = -100
+    identifier             = "what-is-kaizen"
+    url                    = "what-is-kaizen/"
+
+  [[menu.global]]
+    name                   = "Who Is Wade Armstrong"
+    weight                 = -80
+    identifier             = "who-is-wade-armstrong"
+    url                    = "who-is-wade-armstrong/"
+
+  [[menu.global]]
+    name                   = "About This Site"
+    weight                 = -60
+    identifier             = "site"
+    url                    = "site/"
+
+
+
 # Enable syntax highlighting
 # comment or delete lines 11 ~ 14
 pygmentsCodefences = true

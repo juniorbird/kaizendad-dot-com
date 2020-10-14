@@ -1,7 +1,7 @@
 ---
 title: "2020 Presidential and California State Election Endorsements"
-date: 2020-10-01T19:39:10-07:00
-draft: true
+date: 2020-10-14T11:39:10-07:00
+draft: false
 image: "/images/2020/10/beach.jpg"
 ---
 

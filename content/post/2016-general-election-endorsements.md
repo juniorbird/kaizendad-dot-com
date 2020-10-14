@@ -9,7 +9,6 @@ title = "Official 2016 General Election Endorsements"
 
 +++
 
-
 A central tenet of Kaizen is continuous improvement. In this country, we make change &mdash; hopefully, positive change &mdash; through several mechanisms, one of the chief of which is elections. If you find what I write here interesting, consider the below endorsements. 
 
 ## Endorsement Criteria
@@ -147,7 +146,6 @@ Gavin Newsom wants this as something to hang his hat on in his upcoming gubernat
 
 The War on Drugs is a disaster; let's end the failure. Other states that have legalized marijuana have seen tax windfalls; let's follow success.
 
-
 #### Prop 65, Earmark Disposable Bag Fees: No
 
 This earmark &mdash; bad idea! &mdash; is suspiciously endorsed by the plastic bag industry &mdash; non-neutral actor! (That may be the weirdest, most conspiratorial sentence I've ever written.)
@@ -202,7 +200,6 @@ These parcel taxes are only paid by those who live adjacent to County parks, and
 
 Right now, we don't give homeowners who own houses in all sorts of dangerous areas (floodplains, slide-prone areas, fire-prone areas, etc.) the information they need to learn how big their risks are, because we distribute the cost of mitigating those risks too much across the community. Community support is important, but shifting some of that risk back to homeowners will let homeowners learn of what risks they're running, and make the right choices as to where they want to own property and live.
 
-
 #### Measure HHH, LA County Housing for the Homeless Bond: Yes
 
 20% of all homeless people in the US live in California. We have a homeless problem. Other communities have discovered that they actually save money by moving homeless into homes, while also increasing the quality of life of the formerly-homeless, and making it easier for them to get jobs. Let's change unsuccessful policies, and adopt ones that have been successful elsewhere.
@@ -238,4 +235,3 @@ So, that's it! I encourage you to vote as above, and support you however you vot
 [^3]: Speaking of learning opportunities, when we decide to lock everyone up next time we really should also decide to _raise taxes to pay for it._
 
 [^4]: Or much more, by public transportation.
-

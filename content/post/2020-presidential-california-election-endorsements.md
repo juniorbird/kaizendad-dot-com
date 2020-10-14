@@ -29,7 +29,32 @@ I'm not a neutral person. Presumably, you can easily tell my politics from this 
 
 Given all that: my endorsements are below. The order mimics what I see in my vote-by-mail ballot.
 
-{{TOC}}
+#### City/Local
+* [Los Angeles Community College District Seats — None](#los-angeles-community-college-district-seats-none)
+* [Member of the State Assembly, 62nd District — Autumn Burke](#member-of-the-state-assembly-62nd-district-autumn-burke)
+* [Measure RR, LA Unified School District Bonds — Yes](#measure-rr-la-unified-school-district-bonds-yes)
+#### District
+* [Water Replenishment District of Southern California, Member, Board of Directors, Division 2 — Rob Katherman](#water-replenishment-district-of-southern-california-member-board-of-directors-division-2-rob-katherman)
+#### County
+* [County Supervisor, 2nd District — Holly Mitchell](#county-supervisor-2nd-district-holly-mitchell)
+*[District Attorney — George Gascón](#district-attorney-george-gascon)
+* [Judge of the Superior Court — None](#judge-of-the-superior-court-none)
+* [Measure J: Divert 10% of Unrestricted County Budget to Alternatives for Incarceration — Yes](#measure-j-divert-10-of-unrestricted-county-budget-to-alternatives-for-incarceration-yes)
+#### State
+- [Measure 14: Bonds for Stem Cell Research — No](#measure2-14-bonds-for-stem-cell-research-no)
+- [Measure 15: Remove Some of Prop 13's Property Tax Restrictions on Commercial Property — Yes](#measure-15-remove-some-of-prop-13s-property-tax-restrictions-on-commercial-property-yes)
+- [Measure 16: Bring Back Affirmative Action — Yes](#measure-16-bring-back-affirmative-action-yes)
+- [Measure 17: Felons Can Vote After Completing Prison Sentence, Before Completing Non-Custodial Parts of Sentence — Yes](#measure-17-felons-can-vote-after-completing-prison-sentence-before-completing-non-custodial-parts-of-sentence-yes)
+- [Measure 18: 17-Year-Olds Can Vote in Primaries — Yes](#measure-18-17-year-olds-can-vote-in-primaries-yes)
+- [Measure 19: Property Tax Base is Transferable — Yes](#measure-19-property-tax-base-is-transferable-yes)
+- [Measure 20: Less Parole, More Imprisonment, for More Crimes — No](#measure-20-less-parole-more-imprisonment-for-more-crimes-no)
+- [Measure 21: Allows Rent Control — Yes](#measure-21-allows-rent-control-yes)
+- [Measure 22: Employment Law Breaks for Uber and Grubhub — No](#measure-22-employment-law-breaks-for-uber-and-grubhub-no)
+- [#measure-23-on-site-doctors-for-dialysis-clinics-no](#measure-23-on-site-doctors-for-dialysis-clinics-no)
+- [Measure 24: CCPA v.2 — Yes](#measure-24-ccpa-v2-yes)
+- [Measure 25: Replace Bail with an Algorithm — Yes](#measure-25-replace-bail-with-an-algorithm-yes)
+#### National
+* [President and Vice President — Joe Biden/Kamala Harris](#president-and-vice-president-joe-bidenkamala-harris)
 
 ## City/Local
 

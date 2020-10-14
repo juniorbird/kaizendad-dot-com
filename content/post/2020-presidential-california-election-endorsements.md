@@ -3,8 +3,8 @@ title: "2020 Presidential and California State Election Endorsements"
 date: 2020-10-14T11:39:10-07:00
 draft: false
 image: "/images/2020/10/beach.jpg"
-description = "It is Presidential election season here in the US, which is nothing but fun, as I think you've noticed. To get in on this joy we get to share in this blessed year of Our Lord two thousand and twenty, It's my endorsements!"
-slug = "2020-presidential-election-endorsements"
+description: "It is Presidential election season here in the US, which is nothing but fun, as I think you've noticed. To get in on this joy we get to share in this blessed year of Our Lord two thousand and twenty, It's my endorsements!"
+slug: "2020-presidential-election-endorsements"
 ---
 
 It is Presidential election season here in the US, which is nothing but fun, as I think you've noticed. To get in on this joy we get to share in this blessed year of Our Lord two thousand and twenty, It's my endorsements!

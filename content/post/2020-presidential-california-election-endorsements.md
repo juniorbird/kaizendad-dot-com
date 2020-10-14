@@ -30,31 +30,33 @@ I'm not a neutral person. Presumably, you can easily tell my politics from this 
 Given all that: my endorsements are below. The order mimics what I see in my vote-by-mail ballot.
 
 #### City/Local
-* [Los Angeles Community College District Seats — None](#los-angeles-community-college-district-seats-none)
-* [Member of the State Assembly, 62nd District — Autumn Burke](#member-of-the-state-assembly-62nd-district-autumn-burke)
-* [Measure RR, LA Unified School District Bonds — Yes](#measure-rr-la-unified-school-district-bonds-yes)
+* [Los Angeles Community College District Seats — None](#los-angeles-community-college-district-seats--none)
+* [Member of the State Assembly, 62nd District — Autumn Burke](#member-of-the-state-assembly-62nd-district--autumn-burke)
+* [Measure RR, LA Unified School District Bonds — Yes](#measure-rr-la-unified-school-district-bonds--yes)
 #### District
-* [Water Replenishment District of Southern California, Member, Board of Directors, Division 2 — Rob Katherman](#water-replenishment-district-of-southern-california-member-board-of-directors-division-2-rob-katherman)
+* [Water Replenishment District of Southern California, Member, Board of Directors, Division 2 — Rob Katherman](#water-replenishment-district-of-southern-california-member-board-of-directors-division-2--rob-katherman)
 #### County
-* [County Supervisor, 2nd District — Holly Mitchell](#county-supervisor-2nd-district-holly-mitchell)
-*[District Attorney — George Gascón](#district-attorney-george-gascon)
-* [Judge of the Superior Court — None](#judge-of-the-superior-court-none)
-* [Measure J: Divert 10% of Unrestricted County Budget to Alternatives for Incarceration — Yes](#measure-j-divert-10-of-unrestricted-county-budget-to-alternatives-for-incarceration-yes)
+* [County Supervisor, 2nd District — Holly Mitchell](#county-supervisor-2nd-district--holly-mitchell)
+*[District Attorney — George Gascón](#district-attorney--george-gascon)
+* [Judge of the Superior Court — None](#judge-of-the-superior-court--none)
+* [Measure J: Divert 10% of Unrestricted County Budget to Alternatives for Incarceration — Yes](#measure-j-divert-10-of-unrestricted-county-budget-to-alternatives-for-incarceration--yes)
 #### State
-- [Measure 14: Bonds for Stem Cell Research — No](#measure2-14-bonds-for-stem-cell-research-no)
-- [Measure 15: Remove Some of Prop 13's Property Tax Restrictions on Commercial Property — Yes](#measure-15-remove-some-of-prop-13s-property-tax-restrictions-on-commercial-property-yes)
-- [Measure 16: Bring Back Affirmative Action — Yes](#measure-16-bring-back-affirmative-action-yes)
-- [Measure 17: Felons Can Vote After Completing Prison Sentence, Before Completing Non-Custodial Parts of Sentence — Yes](#measure-17-felons-can-vote-after-completing-prison-sentence-before-completing-non-custodial-parts-of-sentence-yes)
-- [Measure 18: 17-Year-Olds Can Vote in Primaries — Yes](#measure-18-17-year-olds-can-vote-in-primaries-yes)
-- [Measure 19: Property Tax Base is Transferable — Yes](#measure-19-property-tax-base-is-transferable-yes)
-- [Measure 20: Less Parole, More Imprisonment, for More Crimes — No](#measure-20-less-parole-more-imprisonment-for-more-crimes-no)
-- [Measure 21: Allows Rent Control — Yes](#measure-21-allows-rent-control-yes)
-- [Measure 22: Employment Law Breaks for Uber and Grubhub — No](#measure-22-employment-law-breaks-for-uber-and-grubhub-no)
-- [#measure-23-on-site-doctors-for-dialysis-clinics-no](#measure-23-on-site-doctors-for-dialysis-clinics-no)
-- [Measure 24: CCPA v.2 — Yes](#measure-24-ccpa-v2-yes)
-- [Measure 25: Replace Bail with an Algorithm — Yes](#measure-25-replace-bail-with-an-algorithm-yes)
+- [Measure 14: Bonds for Stem Cell Research — No](#measure2-14-bonds-for-stem-cell-research--no)
+- [Measure 15: Remove Some of Prop 13's Property Tax Restrictions on Commercial Property — Yes](#measure-15-remove-some-of-prop-13s-property-tax-restrictions-on-commercial-property--yes)
+- [Measure 16: Bring Back Affirmative Action — Yes](#measure-16-bring-back-affirmative-action--yes)
+- [Measure 17: Felons Can Vote After Completing Prison Sentence, Before Completing Non-Custodial Parts of Sentence — Yes](#measure-17-felons-can-vote-after-completing-prison-sentence-before-completing-non-custodial-parts-of-sentence--yes)
+- [Measure 18: 17-Year-Olds Can Vote in Primaries — Yes](#measure-18-17-year-olds-can-vote-in-primaries--yes)
+- [Measure 19: Property Tax Base is Transferable — Yes](#measure-19-property-tax-base-is-transferable--yes)
+- [Measure 20: Less Parole, More Imprisonment, for More Crimes — No](#measure-20-less-parole-more-imprisonment-for-more-crimes--no)
+- [Measure 21: Allows Rent Control — Yes](#measure-21-allows-rent-control--yes)
+- [Measure 22: Employment Law Breaks for Uber and Grubhub — No](#measure-22-employment-law-breaks-for-uber-and-grubhub--no)
+- [#measure-23-on-site-doctors-for-dialysis-clinics-no](#measure-23-on-site-doctors-for-dialysis-clinics--no)
+- [Measure 24: CCPA v.2 — Yes](#measure-24-ccpa-v2--yes)
+- [Measure 25: Replace Bail with an Algorithm — Yes](#measure-25-replace-bail-with-an-algorithm--yes)
 #### National
-* [President and Vice President — Joe Biden/Kamala Harris](#president-and-vice-president-joe-bidenkamala-harris)
+* [President and Vice President — Joe Biden/Kamala Harris](#president-and-vice-president--joe-bidenkamala-harris)
+#### Additional Reading
+* [Other Interesting Endorsements](#other-interesting-endorsements)
 
 ## City/Local
 
@@ -184,6 +186,18 @@ The question comes down to: do we want to keep cash bail, and take another swing
 ### President and Vice President — Joe Biden/Kamala Harris
 
 Hello, I would like to not think about what semi-scandalous activity my President has engaged in for at least a week. If we can't keep scandal out of it, at least we can stop having a new scandal every few days? We need to accept that [aggressive choices by a minority party and its politicians have put our democracy at risk](https://www.amazon.com/How-Democracies-Die-Steven-Levitsky/dp/1524762938). To be frank, I seriously doubt our form of government can be saved; but, if it can, the next step to doing so is to elect these two.
+
+## Other Interesting Endorsements
+
+I trust a variety of people and orgs to provide thoughtful endorsements. If you want to read more, try:
+
+* [LA Times Endorsements](https://www.latimes.com/opinion/story/2020-09-09/la-times-endorsements-november-2020-election-trump-biden)
+* [LA Daily News Endorsements](https://www.dailynews.com/2020/09/23/daily-news-endorsements-for-the-tuesday-nov-3-general-election/)
+* [Knock-LA Progressive Endorsements](https://knock-la.com/los-angeles-progressive-voter-guide-november-general-election-2020-fe6e286b3feb)
+* [California YIMBY Endorsements](https://cayimby.org/endorsements/)
+* [ACLU of SoCal Endorsements](https://www.aclusocal.org/en/2020ballotguide)
+* [LA Democratic Socialists Endorsements](https://dsa-la.org/wp-content/uploads/2020/10/DSA-LA-2020-General-Election-Voter-Guide.pdf)
+* [My friend Auros Harman](https://auros.dreamwidth.org/379253.html)
 
 ![A cactus in sharp focus in front of a rocky mountain](/images/2020/10/cactus.jpg)
 
